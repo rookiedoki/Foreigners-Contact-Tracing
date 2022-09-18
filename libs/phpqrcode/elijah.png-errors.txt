@@ -1,0 +1,170 @@
+2021-12-01 03:57:37: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+2021-12-01 04:00:01: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+2021-12-01 04:00:51: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\frame_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_0\mask_33_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_1\mask_33_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_2\mask_33_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_3\mask_33_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_4\mask_33_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_5\mask_33_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_6\mask_33_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_7\mask_33_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+2021-12-01 04:01:33: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\frame_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_0\mask_33_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_1\mask_33_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_2\mask_33_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_3\mask_33_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_4\mask_33_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_5\mask_33_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_6\mask_33_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_7\mask_33_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+2021-12-01 04:07:34: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\frame_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_0\mask_33_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_1\mask_33_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_2\mask_33_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_3\mask_33_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_4\mask_33_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_5\mask_33_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_6\mask_33_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\qr3\libs\phpqrcode\cache\mask_7\mask_33_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\qr3\libs\phpqrcode\qrmask.php</b> on line <b>155</b><br />

@@ -1,0 +1,16 @@
+
+.col{
+	padding: 10px;
+	margin-left: 20px;
+}
+
+form{
+	padding: 20px;
+	margin: 50px;
+	border: 1px solid black;
+}
+
+h4{
+	text-align: left;
+	font-weight: bold;
+}

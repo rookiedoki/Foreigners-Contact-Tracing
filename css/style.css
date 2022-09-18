@@ -1,0 +1,20 @@
+*{
+  font-family: Arial;
+}
+.navbar-custom{
+  background-color: rgb(255, 174, 0);
+}
+#sticky-footer {
+  flex-shrink: none;
+}
+#j1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(8, 95, 167);
+  color: antiquewhite;
+}
+#con1{
+  margin: 20px;
+  padding: 20px;
+  text-align: justify;
+  margin-top: 10px;
+}
